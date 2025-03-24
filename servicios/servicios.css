@@ -1,0 +1,19 @@
+.viewmore__container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+    gap: 10px;
+}
+.viewmore{
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.card__container{
+    padding-top: 100px !important;
+}

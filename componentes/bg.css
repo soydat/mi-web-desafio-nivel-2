@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+#bg{
+    background-image: url("./assets/doodle_items.png");
+    background-repeat: repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}

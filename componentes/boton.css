@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.send-button{
+    font-family: "Poppins";
+    font-weight: 700;
+    font-size: 18px;
+    gap: 10px;
+    text-align: center;
+    color: black;
+    background-color: #00ADB5;
+    border: none;
+    border-radius: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 312px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
